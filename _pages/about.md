@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Short Bio
 ======
 Hi there, I am Yang Liu. Currently I am a fourth-year undergraduate student at Huazhong University of Science and Technology, majoring in Economic Statistics. My research interests include green finance, cryptocurrencies and risk analysis. I am looking for a Ph.D. or mphil position in financial technology. 
