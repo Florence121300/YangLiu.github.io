@@ -15,7 +15,6 @@ Sept.2020-June.2024: Bachelor's degree in Economic Statistics from Huazhong Univ
 
 Scientific Research Experience
 ======
-
 Publication
 ------
 How different are the risk spillover of carbon with green and traditional assets? Evidence from a full distributional analysis 
