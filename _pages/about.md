@@ -24,6 +24,7 @@ How different are the risk spillover of carbon with green and traditional assets
 Nov.2020:Presenter at 7th Energy Finance International Conference
 
 **Research Project**
+
 Feb.2023-May.2023:Scientific research project of the UNDP group of the Chinese Academy of Social Sciences, the research direction is how to construct an index system to measure the green and inclusive economic growth based on the city data.
 
 Mar.2022-May.2023:Leader of a school-level innovation and entrepreneurship poject
