@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Differences in carbon risk spillovers with green versus traditional assets: 
+Evidence from a full distributional analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-09-14
+venue: 'Energy Economics'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140988323005479'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0140988323005479?via%3Dihub)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+citation: Duan, K., Liu, Y., Yan, C., & Huang, Y. (2023). Differences in carbon risk spillovers with green versus traditional assets: Evidence from a full distributional analysis. Energy Economics, 107049. https://doi.org/10.1016/j.eneco.2023.107049
