@@ -11,41 +11,6 @@ Hi there, I am Yang Liu. Currently I am a fourth-year undergraduate student at H
 
 You can find my CV here: [Yang Liu's Curriculum Vitae](assets/CV.pdf).
 
-Education
-======
-Sept.2020-June.2024: Bachelor's degree in Economic Statistics from Huazhong University of Science and Technology
 
-Scientific Research Experience
-======
-**Publication**
-
-Duan, K., Liu, Y., Yan, C., & Huang, Y. (2023). Differences in carbon risk spillovers with green versus traditional assets: Evidence from a full distributional analysis. Energy Economics, 107049. https://doi.org/10.1016/j.eneco.2023.107049
-
-**Conference**
-
-Nov.2020:Presenter at 7th Energy Finance International Conference
-
-**Research Project**
-
-Feb.2023-May.2023:Scientific research project of the UNDP group of the Chinese Academy of Social Sciences, the research direction is how to construct an index system to measure the green and inclusive economic growth based on the city data.
-
-Mar.2022-May.2023:Leader of a school-level innovation and entrepreneurship poject
-
-Skills
-======
-CET-6:591; CET-4:624
-
-Second and Third prize of National College Students English Competition
-
-NCRE3（National Computer Rank3 Examination)
-
-Python; Latex; R; Stata
-
-Core courses
-======
-Microeconomics 96, Mathematical Analysis(3) 92, Mathematical Analysis(1) 90, Marxist 
-Political Economics 96, Macroeconomics 95, Game Theory 100, Public Finance 95, Advance 
-Programming Language 98, Money and Banking 93, Multivariate Statistical Analysis 99, Accounting 97, 
-Stochastic Process 95.
 
 
