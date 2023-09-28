@@ -4,7 +4,6 @@ Evidence from a full distributional analysis"
 collection: publications
 date: 2023-09-14
 venue: 'Energy Economics'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140988323005479'
 ---
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0140988323005479?via%3Dihub)
