@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 Hi there, I am Yang Liu. Currently I am a fourth-year undergraduate student at Huazhong University of Science and Technology, majoring in Economic Statistics. My research interests include green finance, cryptocurrencies and risk analysis. I am looking for a Ph.D. or mphil position in financial technology. 
-
 You can find my CV here: [Yang Liu's Curriculum Vitae](../assets/CV.pdf).
+
 Education
 ======
 Sept.2020-June.2024: Bachelor's degree in Economic Statistics from Huazhong University of Science and Technology
